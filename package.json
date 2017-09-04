@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "",
+    "gulp-connect": "",
+    "gulp-htmlmin": "",
+    "gulp-imagemin": "",
+    "gulp-rename": "",
+    "gulp-ruby-sass": "",
+    "gulp-uglify": ""
+  }
+}
